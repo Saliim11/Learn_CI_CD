@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Saliim11/Learn_CI_CD</url>
+      <url>https://maven.pkg.github.com/saliim11/Learn_CI_CD</url>
     </repository>
   </distributionManagement>
   
